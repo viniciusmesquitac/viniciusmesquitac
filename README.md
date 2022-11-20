@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+🔭 Im a Computer Science student. I like animations and play piano.
+
+🍎 Building things for apple environment ( iOS, IpadOS, tvOS )
+
+👀 Check my personal portfolio: https://viniciusmesquitac.github.io
+
+📫 Send me an email: viniciuscoelho.ti@gmail.com
+
 <!--
 **viniciusmesquitac/viniciusmesquitac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
